@@ -46,7 +46,7 @@
     "eslint": "^7.32",
     "exec-bin": "^1.0.0",
     "hugo-installer": "^3.1",
-    "flexsearch": "^0.7.21",
+    "flexsearch": "^0.7.31",
     "highlight.js": "^11.0",
     "instant.page": "^5.1",
     "katex": "^0.13",
