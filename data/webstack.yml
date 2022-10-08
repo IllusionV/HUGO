@@ -38,6 +38,7 @@
 
 - taxonomy: Image
   icon: fa fa-picture-o
+  links:
     - title: Qinimg
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=www.qinimg.com
       url: https://www.qinimg.com
@@ -46,6 +47,7 @@
 
 - taxonomy: Forum
   icon: fa fa-forumbee
+  links:
     - title: 98堂
       logo: https://api.svx.es/favicon/icon?size=2..120..200&url=www.sehuatang.net
       url: https://www.sehuatang.net/
@@ -53,6 +55,7 @@
 
 - taxonomy: Fictoin
   icon: fa fa-book       
+  links:
     - title: 短篇小说
       logo: https://api.svx.es/favicon/icon?size=32..120..200&url=blog.xbookcn.net
       url: https://blog.xbookcn.net/
@@ -61,6 +64,7 @@
 
 - taxonomy: Live Stream
   icon: fa fa-step-forward
+  links:
     - title: STRIPCHAT
       logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/STRIPCHAT.ico
       url: https://zh.stripchat.com/charming_NaNa21/profile
