@@ -80,7 +80,7 @@
 
 
 - taxonomy: Live Stream
-  icon: fad fa-play-circle
+  icon: fas fa-play-circle
   links:
     - title: STRIPCHAT
       logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/STRIPCHAT.ico
@@ -90,7 +90,7 @@
       url: https://chaturbate.com/
     - title: 18insta
       logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/18insta.ico
-      url: https://18insta.com/
+      url: https://18insta.com
 
 
 
