@@ -5,25 +5,25 @@
   links: 
     - title: PornDude
       logo: https://api.svx.es/favicon/icon?size=32..120..200&url=theporndude.com
-      url: https://prondude.com
+      url: https://theporndude.com/
 #      qrcode: assets/images/logos/qrcode.jpg
         
 
 
 - taxonomy: Video
-  icon: fas fa-film fa-lg
+  icon: fas fa-video
   links: 
     - title: EPORNER
-      logo: https://api.svx.es/favicon/icon?size=32..120..200&url=theporndude.com
-      url: https://www.prorner.com/
+      logo: https://api.svx.es/favicon/icon?size=32..120..200&url=www.eporner.com
+      url: https://www.eporner.com/
     - title: MissAV
-      logo: https://api.svx.es/favicon/icon?size=32..120..200&url=
+      logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/MissAV.ico
       url: https://missav.com/cus-147
     - title: 941TuBe
-      logo: https://api.svx.es/favicon/icon?size=32..120..200&url=
+      logo: https://api.svx.es/favicon/icon?size=1..120..300&url=941tube.com
       url: https://941tube.com/
     - title: 麻豆傳媒映畫
-      logo: https://api.svx.es/favicon/icon?size=32..120..200&url=
+      logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/ModelMedia.ico
       url: https://mddmp03.com/
     - title: 
       logo: https://api.svx.es/favicon/icon?size=32..120..200&url=
@@ -32,12 +32,12 @@
 
 
 - taxonomy: Comic
-  icon: fa fa-comments-o
+  icon: fas fa-comments
   
       
 
 - taxonomy: Image
-  icon: fa fa-picture-o
+  icon: fas fa-image
   links:
     - title: Qinimg
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=www.qinimg.com
@@ -46,24 +46,41 @@
 
 
 - taxonomy: Forum
-  icon: fa fa-forumbee
+  icon: fab fa-forumbee
+  links:
+    - title: 杏吧
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=sex8.cc
+      url: https://sex8.cc/
   links:
     - title: 98堂
       logo: https://api.svx.es/favicon/icon?size=2..120..200&url=www.sehuatang.net
       url: https://www.sehuatang.net/
+  links:
+    - title: 2048核基地
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=hjd2048.com
+      url: https://hjd2048.com/
+  links:
+    - title: 留园酷18
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=www.cool18.com
+      url: https://www.cool18.com/
+
 
 
 - taxonomy: Fictoin
-  icon: fa fa-book       
+  icon: fas fa-book       
   links:
     - title: 短篇小说
       logo: https://api.svx.es/favicon/icon?size=32..120..200&url=blog.xbookcn.net
       url: https://blog.xbookcn.net/
+  links:
+    - title: 海棠书屋
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=233769.xyz
+      url: https://233769.xyz/
 
 
 
 - taxonomy: Live Stream
-  icon: fa fa-step-forward
+  icon: fad fa-play-circle
   links:
     - title: STRIPCHAT
       logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/STRIPCHAT.ico
@@ -74,3 +91,12 @@
     - title: 18insta
       logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/18insta.ico
       url: https://18insta.com/
+
+
+
+- taxonomy: Comprehensive
+  icon: fas fa-folder
+  links: 
+    - title: 小黄书
+      logo: https://api.svx.es/favicon/icon?size=32..120..300&url=xchina.co
+      url: https://xchina.co/
