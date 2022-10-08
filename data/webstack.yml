@@ -67,7 +67,7 @@
   icon: fas fa-book       
   links:
     - title: 短篇小说
-      logo: https://api.svx.es/favicon/icon?size=32..120..200&url=blog.xbookcn.net
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=blog.xbookcn.net
       url: https://blog.xbookcn.net/
     - title: 海棠书屋
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=233769.xyz
