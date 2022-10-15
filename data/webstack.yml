@@ -25,16 +25,35 @@
     - title: 麻豆傳媒映畫
       logo: https://cdn.jsdelivr.net/gh/TVSCloud/Static@latest/Favicon/ModelMedia.ico
       url: https://mddmp03.com/
-    - title: 
-      logo: https://api.svx.es/favicon/icon?size=32..120..200&url=
-      url: https://www..com
+    - title: 今日看料
+      logo: https://api.iowen.cn/favicon/kanliao.one.png
+      url: https://kanliao.one/
       
 
 
 - taxonomy: Comic
   icon: fas fa-comments
-  
+  links:
+    - title: TOPTOON
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=www.toptoon.net
+      url: https://www.toptoon.net/
+    - title: 漫蛙
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=manwa.site
+      url: https://manwa.cc/
+    - title: 污点韩漫
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=wdhm.net
+      url: https://ckmh.net/
+    - title: 韩国漫画
+      logo: assets/images/logos/hanguomanhua.png
+      url: https://www.hanguomanhua.me/
+    - title: 图文韩漫
+      logo: assets/images/logos/twhm.png
+      url: https://twhm.net/
+    - title: 92韩漫
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=5ikanhm.top
+      url: https://92hm.top/
       
+
 
 - taxonomy: Image
   icon: fas fa-image
@@ -99,3 +118,6 @@
     - title: 小黄书
       logo: https://api.svx.es/favicon/icon?size=32..120..300&url=xchina.co
       url: https://xchina.co/
+    - title: TOPMAN
+      logo: https://api.svx.es/favicon/icon?size=16&url=www.87bolala.com
+      url: https://www.87bolala.com/
