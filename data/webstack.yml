@@ -44,10 +44,10 @@
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=wdhm.net
       url: https://ckmh.net/
     - title: 韩国漫画
-      logo: assets/images/logos/hanguomanhua.png
+      logo: assets/images/logos/icon/hanguomanhua.png
       url: https://www.hanguomanhua.me/
     - title: 图文韩漫
-      logo: assets/images/logos/twhm.png
+      logo: assets/images/logos/icon/twhm.png
       url: https://twhm.net/
     - title: 92韩漫
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=5ikanhm.top
