@@ -52,6 +52,9 @@
     - title: 92韩漫
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=5ikanhm.top
       url: https://92hm.top/
+    - title: 91漫屋
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=91manwu.com
+      url: https://91manwu.com/
       
 
 
@@ -61,9 +64,15 @@
     - title: Qinimg
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=www.qinimg.com
       url: https://www.qinimg.com
+    - title: 4KUP
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=www.4kup.net
+      url: https://www.4kup.net/
     - title: ACG.NG
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=acgng.cc
       url: https://acgng.cc/
+    - title: MICHEL'S WORLD
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=michelsworld.com
+      url: https://michelsworld.com/
 
 
 
@@ -76,6 +85,9 @@
     - title: 98堂
       logo: https://api.svx.es/favicon/icon?size=2..120..200&url=www.sehuatang.net
       url: https://www.sehuatang.net/
+    - title: SexInSex
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=sexinsex.net
+      url: https://sexinsex.net/
     - title: 2048核基地
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=hjd2048.com
       url: https://hjd2048.com/
@@ -94,6 +106,21 @@
     - title: 海棠书屋
       logo: https://api.svx.es/favicon/icon?size=16..120..200&url=233769.xyz
       url: https://233769.xyz/
+    - title: 
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=233769.xyz
+      url: https://233769.xyz/
+
+
+
+- taxonomy: Torrent
+  icon: fad fa-seedling
+  links:
+    - title: AVMOO
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=avmoo.click
+      url: https://avmoo.click/
+    - title: Sexy-PICS
+      logo: https://api.svx.es/favicon/icon?size=16..120..200&url=www.sexy-pics.us
+      url: https://www.sexy-pics.us/
 
 
 
